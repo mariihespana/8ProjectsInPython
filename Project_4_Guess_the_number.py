@@ -1,4 +1,4 @@
-# Projeto 5 - Chute o número (com GUI)
+# Projeto 4 - Chute o número (com GUI)
 # Objetivo: Criar um algoritmo que gera um valor aleatório e o usuário fica tentando o número até acertar
 
 import random
