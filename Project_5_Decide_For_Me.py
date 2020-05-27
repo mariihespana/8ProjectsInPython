@@ -1,4 +1,4 @@
-# Project 6 - Decida por mim
+# Project 5 - Decida por mim
 # Objetivo: Faça uma pergunta para o programa e ele terá que te dar uma resposta
 
 class DecidaPorMim:
