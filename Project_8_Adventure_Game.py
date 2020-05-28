@@ -1,5 +1,6 @@
 # Projeto 7 - Jogo de Aventura (ADAPTADO - MINHA VERSÃO)
 # Um jogo de decisões onde terão vários finais diferentes de acordo com cada resposta dada
+# I did a lot of changes and tried to go different from the tutorial when developing this code.
 
 import PySimpleGUI as sg
 
